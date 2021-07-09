@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: /LongAdder源码分析
+
 ### JDK1.8 LongAdder源码分析
 
 - Striped64
