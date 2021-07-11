@@ -1,6 +1,8 @@
-layout: page
-title: "PAGE TITLE"
+---
+layout: post
+title: "LongAdder源码分析"
 permalink: /LongAdder源码分析
+---
 
 ### JDK1.8 LongAdder源码分析
 
