@@ -1,6 +1,4 @@
-> 千里之行始于足下！
-
-## blob list
+ ## 千里之行始于足下！
 ### 202107
 [LongAdder源码分析](/LongAdder_code_analysis)
 
