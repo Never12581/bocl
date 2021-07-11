@@ -2,7 +2,7 @@
 
 ## blob list
 ### 202107
-[LongAdder源码分析]("/LongAdder_code_analysis")
+[LongAdder源码分析](/LongAdder_code_analysis)
 
 
 ## 个人简历
