@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "LongAdder源码分析"
+layout: page
+title: LongAdder源码分析
 permalink: /LongAdderCodeAnalysis
 date: 2021-07-08 18:18:18 -0000
+categories: J.U.C
 ---
 
 ### JDK1.8 LongAdder源码分析
