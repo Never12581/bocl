@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LongAdder源码分析"
-permalink: "/LongAdderCodeAnalysis"
+permalink: /LongAdderCodeAnalysis
 ---
 
 ### JDK1.8 LongAdder源码分析
