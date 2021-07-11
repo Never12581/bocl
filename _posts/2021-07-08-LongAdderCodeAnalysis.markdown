@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "LongAdder源码分析"
-permalink: "/LongAdder_code_analysis"
+permalink: "/LongAdderCodeAnalysis"
+date: 2021-07-08 18:18:18 -0000
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 ### JDK1.8 LongAdder源码分析
